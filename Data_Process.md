@@ -8,6 +8,28 @@
 
 ##更新历史数据分析##
 * 如果得到了新数据，需要更新数据分析
+* 
+
 
 ##实时分析##
 * 即时分析
+* 
+
+#个股分析#
+##个股属性##
+* 交易天数
+* 指标分析
+
+加工数据的存储问题如何解决，作为和信号发生器的接口
+建议放在内存数据库里面
+设计到内存数据库的schema 设计
+
+Schema设计
+http://redis.io/topics/twitter-clone
+
+uid:1000:username
+uid:1000:password
+uid:1000:followers
+uid:1000:following
+
+
