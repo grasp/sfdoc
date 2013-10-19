@@ -31,6 +31,6 @@ http://support.redistogo.com/kb/info/memory-costs-of-redis-data-structures
 
 数据处理和分析结果
 
-sid:00001:2013-06-05:price 
-sid:00001:2013-06-05:macd
-sid:00001:2013-06-05:volume
+- sid:00001:2013-06-05:price 
+- sid:00001:2013-06-05:macd
+- sid:00001:2013-06-05:volume
