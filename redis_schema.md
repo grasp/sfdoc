@@ -12,5 +12,14 @@ end
 stock_list[100,200].each do |stock_id|
 end
 
-sid:00001:symbol
-sid:00001:name
+- sid:00001:symbol
+- sid:00001:name
+
+* if a new stock ,new a stock id
+
+
+* save redis memory by hash way
+http://stackoverflow.com/questions/10004565/redis-10x-more-memory-usage-than-data
+
+
+
