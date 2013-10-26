@@ -1,0 +1,1 @@
+www.redmine.org/projects/redmine/wiki/HowTo_install_rmagick_gem_on_Windows
