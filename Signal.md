@@ -35,11 +35,11 @@
 出现的总次数，赢的次数，输的次数，那么结果就出来了
 
 
-报告格式
+##报告格式
 [0] [true,false,...]  [total,win,loss,win_percent,loss_pecent]
 [1] [true,false,...]  [total,win,loss,win_percent,loss_pecent]
 
-报告处理
+##报告处理
 
 report win_percent(symbol,percent)
 report loss_percent(symbol,percent)
