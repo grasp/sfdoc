@@ -22,4 +22,27 @@
 
 
 
+##单个组合分析
+
+多个组合会有多个 true false 组合
+
+有一些可能会相同，而有一些会不同
+
+同一个组合可能会有不同的结果
+
+一个组合可能会涨，也可能会跌
+
+出现的总次数，赢的次数，输的次数，那么结果就出来了
+
+
+报告格式
+[0] [true,false,...]  [total,win,loss,win_percent,loss_pecent]
+[1] [true,false,...]  [total,win,loss,win_percent,loss_pecent]
+
+报告处理
+
+report win_percent(symbol,percent)
+report loss_percent(symbol,percent)
+
+
 
