@@ -36,7 +36,10 @@
 
 
 ##报告格式
-[0] [true,false,...]  [total,win,loss,win_percent,loss_pecent]
+index_array_to_S#value_array_to_s 作为键值
+[[index],[value]] 作为键值？
+
+[0#true,false,...]  [total,win,loss,win_percent,loss_pecent]
 [1] [true,false,...]  [total,win,loss,win_percent,loss_pecent]
 
 ##报告处理
